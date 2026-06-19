@@ -1,0 +1,9 @@
+package Week1.DesignPriciples.FactoryMethodPattern;
+
+
+public class WordDocument implements Document {
+    public void open() {
+        System.out.println("Opening Word Document");
+    }
+}
+
