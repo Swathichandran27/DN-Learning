@@ -2,3 +2,4 @@ com\junitdemo\ExternalApi.class
 com\junitdemo\Calculator.class
 com\junitdemo\MyService.class
 com\junitdemo\App.class
+com\junitdemo\LoggingExample.class
